@@ -1,0 +1,12 @@
+Mobile Engineer, AI Features
+
+Requirements
+- 4+ years building Android apps in Kotlin
+- Experience integrating LLM APIs into production apps
+- Retrieval-augmented generation with vector databases
+- Streaming chat user interfaces
+- Python for backend services or tooling
+
+Nice to have
+- On-device machine learning
+- Evaluation of LLM outputs

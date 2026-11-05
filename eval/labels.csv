@@ -1,0 +1,38 @@
+jd,resume,req_id,requirement_text,must_have,category,years,label,evidence_id
+ai_mobile.txt,sample_resume.md,r1,4+ years building Android apps in Kotlin,true,experience,4,met,exp1_h
+ai_mobile.txt,sample_resume.md,r2,Experience integrating LLM APIs into production apps,true,skill,,missing,
+ai_mobile.txt,sample_resume.md,r3,Retrieval-augmented generation with vector databases,true,skill,,missing,
+ai_mobile.txt,sample_resume.md,r4,Streaming chat user interfaces,true,skill,,missing,
+ai_mobile.txt,sample_resume.md,r5,Python for backend services or tooling,true,skill,,partial,skills_1
+ai_mobile.txt,sample_resume.md,r6,On-device machine learning,false,skill,,missing,
+ai_mobile.txt,sample_resume.md,r7,Evaluation of LLM outputs,false,skill,,missing,
+android_lead.txt,sample_resume.md,r1,8+ years of Android development experience,true,experience,8,met,exp1_h
+android_lead.txt,sample_resume.md,r2,Expert in Kotlin and Jetpack Compose,true,skill,,met,exp1_b1
+android_lead.txt,sample_resume.md,r3,Experience leading a team of Android engineers,true,experience,,met,exp1_b1
+android_lead.txt,sample_resume.md,r4,CI/CD pipelines for mobile releases,true,skill,,met,exp1_b3
+android_lead.txt,sample_resume.md,r5,Offline-first architecture and local persistence,true,skill,,met,exp2_b1
+android_lead.txt,sample_resume.md,r6,Strong testing practice: unit and UI tests,true,skill,,met,exp3_b2
+android_lead.txt,sample_resume.md,r7,Kotlin Multiplatform experience,false,skill,,met,exp2_b3
+android_lead.txt,sample_resume.md,r8,Fintech or payments domain experience,false,domain,,met,exp1_b1
+android_lead.txt,sample_resume.md,r9,Experience with Rust,false,skill,,missing,
+kmp_engineer.txt,sample_resume.md,r1,5+ years of mobile development,true,experience,5,met,exp1_h
+kmp_engineer.txt,sample_resume.md,r2,Production Kotlin Multiplatform experience sharing business logic across Android and iOS,true,skill,,met,exp2_b3
+kmp_engineer.txt,sample_resume.md,r3,Native iOS development with Swift and SwiftUI,true,skill,,missing,
+kmp_engineer.txt,sample_resume.md,r4,Dependency injection and clean architecture,true,skill,,met,exp2_b2
+kmp_engineer.txt,sample_resume.md,r5,Crash monitoring and app stability ownership,true,skill,,met,exp2_b4
+kmp_engineer.txt,sample_resume.md,r6,Compose Multiplatform for shared UI,false,skill,,partial,exp1_b2
+kmp_engineer.txt,sample_resume.md,r7,GraphQL APIs,false,skill,,partial,skills_1
+kmp_engineer.txt,sample_resume_no_kmp.md,r1,5+ years of mobile development,true,experience,5,met,exp1_h
+kmp_engineer.txt,sample_resume_no_kmp.md,r2,Production Kotlin Multiplatform experience sharing business logic across Android and iOS,true,skill,,missing,
+kmp_engineer.txt,sample_resume_no_kmp.md,r3,Native iOS development with Swift and SwiftUI,true,skill,,missing,
+kmp_engineer.txt,sample_resume_no_kmp.md,r4,Dependency injection and clean architecture,true,skill,,missing,
+kmp_engineer.txt,sample_resume_no_kmp.md,r5,Crash monitoring and app stability ownership,true,skill,,missing,
+kmp_engineer.txt,sample_resume_no_kmp.md,r6,Compose Multiplatform for shared UI,false,skill,,partial,exp1_b2
+kmp_engineer.txt,sample_resume_no_kmp.md,r7,GraphQL APIs,false,skill,,partial,skills_1
+platform_backend.txt,sample_resume.md,r1,6+ years of backend engineering,true,experience,6,missing,
+platform_backend.txt,sample_resume.md,r2,Kubernetes in production,true,skill,,missing,
+platform_backend.txt,sample_resume.md,r3,Terraform and infrastructure as code,true,skill,,missing,
+platform_backend.txt,sample_resume.md,r4,Go or Rust services,true,skill,,missing,
+platform_backend.txt,sample_resume.md,r5,PostgreSQL performance tuning,true,skill,,missing,
+platform_backend.txt,sample_resume.md,r6,CI/CD pipeline ownership,false,skill,,met,exp1_b3
+platform_backend.txt,sample_resume.md,r7,Mentoring engineers,false,skill,,met,exp1_b5

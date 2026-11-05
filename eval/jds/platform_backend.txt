@@ -1,0 +1,12 @@
+Senior Platform Engineer
+
+Requirements
+- 6+ years of backend engineering
+- Kubernetes in production
+- Terraform and infrastructure as code
+- Go or Rust services
+- PostgreSQL performance tuning
+
+Nice to have
+- CI/CD pipeline ownership
+- Mentoring engineers

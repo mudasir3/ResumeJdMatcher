@@ -1,0 +1,20 @@
+Lead Android Engineer — Payments
+
+About us
+We build payment tools for small businesses across Europe.
+
+Requirements
+- 8+ years of Android development experience
+- Expert in Kotlin and Jetpack Compose
+- Experience leading a team of Android engineers
+- CI/CD pipelines for mobile releases
+- Offline-first architecture and local persistence
+- Strong testing practice: unit and UI tests
+
+Nice to have
+- Kotlin Multiplatform experience
+- Fintech or payments domain experience
+- Experience with Rust
+
+What we offer
+- Remote-first, 30 days holiday

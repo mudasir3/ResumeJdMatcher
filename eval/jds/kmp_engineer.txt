@@ -1,0 +1,15 @@
+Senior Kotlin Multiplatform Engineer
+
+Requirements
+- 5+ years of mobile development
+- Production Kotlin Multiplatform experience sharing business logic across Android and iOS
+- Native iOS development with Swift and SwiftUI
+- Dependency injection and clean architecture
+- Crash monitoring and app stability ownership
+
+Preferred
+- Compose Multiplatform for shared UI
+- GraphQL APIs
+
+Benefits
+- Equity and learning budget
